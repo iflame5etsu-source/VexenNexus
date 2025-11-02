@@ -15,14 +15,7 @@ const data = [
       { title: "Summoner", img: "https://i.pinimg.com/474x/1f/d1/ac/1fd1ac50db9b7ac7676c4125bcd53ecc.jpg", link: "#" }
     ]
   },
-  {
-    name: "EN",
-    items: [
-      { title: "Sorcery", img: "https://i.pinimg.com/474x/1f/d1/ac/1fd1ac50db9b7ac7676c4125bcd53ecc.jpg", link: "#" },
-      { title: "Summoner", img: "https://i.pinimg.com/474x/1f/d1/ac/1fd1ac50db9b7ac7676c4125bcd53ecc.jpg", link: "#" },
-      { title: "Summoner", img: "https://i.pinimg.com/474x/1f/d1/ac/1fd1ac50db9b7ac7676c4125bcd53ecc.jpg", link: "#" }
-    ]
-  },
+  
   
 ];
 

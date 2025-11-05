@@ -2,15 +2,15 @@ const data = [
   {
     name: "Warrior",
     items: [
-      { title: "Holly Knight", img: "https://i.pinimg.com/474x/1f/d1/ac/1fd1ac50db9b7ac7676c4125bcd53ecc.jpg", link: "#" },
-      { title: "Berserker", img: "https://i.pinimg.com/474x/1f/d1/ac/1fd1ac50db9b7ac7676c4125bcd53ecc.jpg", link: "#" },
+      { title: "ЧИСА", img: "https://ibb.co/jCGDLmV", link: "https://docs.google.com/spreadsheets/d/1HH0V8Ze23XbHHgsP2mASBWCnKBhq9wfm33TxHPcptc4/edit?gid=0#gid=0" },
+      { title: "БУЛИНГ", img: "https://i.pinimg.com/474x/1f/d1/ac/1fd1ac50db9b7ac7676c4125bcd53ecc.jpg", link: "https://docs.google.com/spreadsheets/d/1HH0V8Ze23XbHHgsP2mASBWCnKBhq9wfm33TxHPcptc4/edit?gid=1815378469#gid=1815378469" },
       { title: "Gunlancer", img: "https://media1.tenor.com/m/qGhQpBVaqJ8AAAAd/ado-ado-cute.gif", link: "#" }
     ]
   },
   {
-    name: "Mage",
+    name: "САПОРТ",
     items: [
-      { title: "Sorcery", img: "https://i.pinimg.com/474x/1f/d1/ac/1fd1ac50db9b7ac7676c4125bcd53ecc.jpg", link: "#" },
+      { title: "БУЛИНГ", img: "https://i.pinimg.com/474x/1f/d1/ac/1fd1ac50db9b7ac7676c4125bcd53ecc.jpg", link: "#" },
       { title: "Summoner", img: "https://i.pinimg.com/474x/1f/d1/ac/1fd1ac50db9b7ac7676c4125bcd53ecc.jpg", link: "#" },
       { title: "Summoner", img: "https://i.pinimg.com/474x/1f/d1/ac/1fd1ac50db9b7ac7676c4125bcd53ecc.jpg", link: "#" }
     ]
